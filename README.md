@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RajputVikashS5/Leetcode/tree/master/0078-subsets) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RajputVikashS5/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 ## Backtracking
 |  |
 | ------- |
